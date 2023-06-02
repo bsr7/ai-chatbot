@@ -8,4 +8,4 @@ This chatbot allows users to interact with the GPT-3 model provided by OpenAI. U
 
 ## Acknowledgements
 
-- The chabot functionality was adapted from https://kinsta.com/blog/chatgpt-clone/ 
+The chabot functionality was adapted from https://kinsta.com/blog/chatgpt-clone/ 
